@@ -47,7 +47,6 @@ your-react-project/
 
 
 Made with ❤️ by [Sahil Khan](https://github.com/Sahilkhan-17)
-```
 
 
 
